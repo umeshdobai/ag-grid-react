@@ -1,0 +1,54 @@
+{
+  "name": "testing-purpose",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.26",
+    "@fortawesome/free-solid-svg-icons": "^5.12.0",
+    "@fortawesome/react-fontawesome": "^0.1.8",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^7.2.1",
+    "ag-grid": "^18.1.2",
+    "ag-grid-community": "^22.1.1",
+    "ag-grid-enterprise": "^22.1.1",
+    "ag-grid-react": "^22.1.1",
+    "antd": "^3.26.8",
+    "bootstrap": "^4.4.1",
+    "flatpickr": "^4.6.3",
+    "font-awesome": "^4.7.0",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-contextmenu": "^2.13.0",
+    "react-dom": "^16.12.0",
+    "react-dom-factories": "^1.0.2",
+    "react-filter-search": "^1.0.9",
+    "react-flatpickr": "^3.9.1",
+    "react-highlight-words": "^0.16.0",
+    "react-multiselect-checkboxes": "^0.1.1",
+    "react-scripts": "3.3.0",
+    "react-tooltip": "^3.11.3",
+    "reactstrap": "^8.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

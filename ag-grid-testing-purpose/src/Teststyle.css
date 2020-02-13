@@ -1,0 +1,14 @@
+
+.select-box select{
+    width: 120px;
+    padding: 2px 8px;
+    border-radius: 5px;
+    font-size: 12px;
+    box-shadow: rgb(168, 179, 179);
+}
+#refreshButton{
+    margin-left: 440px;
+}
+#reportImg{
+    margin-left: 770px;
+}

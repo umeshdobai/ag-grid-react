@@ -1,0 +1,19 @@
+.cell-wrap-text {
+	white-space: normal !important;
+  }
+  .ag-row-hover{
+  
+	background-color: #B6C4D2 !important;
+  }
+  .ag-row-odd{
+	background-color: #DFE3E8 !important;
+  }
+  .ag-row-selected{
+	background-color: #B6C4D2 !important;
+  }
+  .ag-menu ag-ltr{
+	margin-right: 100px !important;
+  }
+  .ag-menu-option-hover{
+    background-color: #B6C4D2 !important;
+  }
